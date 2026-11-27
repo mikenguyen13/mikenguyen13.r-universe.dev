@@ -9,7 +9,6 @@ with binaries for Windows, macOS, Linux and WebAssembly.
 | causalverse | [mikenguyen13/causalverse](https://github.com/mikenguyen13/causalverse) | Not on CRAN; this is its install route |
 | regsensitivity | [mikenguyen13/regsensitivity](https://github.com/mikenguyen13/regsensitivity) | On CRAN; this serves the development version |
 | synthdid | [synth-inference/synthdid](https://github.com/synth-inference/synthdid) | Imported by causalverse and not on CRAN, so it has to be in the same repository for installs to resolve |
-| MCPanel | [susanathey/MCPanel](https://github.com/susanathey/MCPanel) | Suggested by causalverse (the `mc` estimator) and not on CRAN |
 
 ## Install
 
