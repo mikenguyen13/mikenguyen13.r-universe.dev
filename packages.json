@@ -10,5 +10,9 @@
   {
     "package": "synthdid",
     "url": "https://github.com/synth-inference/synthdid"
+  },
+  {
+    "package": "MCPanel",
+    "url": "https://github.com/susanathey/MCPanel"
   }
 ]
